@@ -1,6 +1,6 @@
 # Student name and Overlay Banner for Linux
 
-This Python application creates a small, semi-transparent, always-on-top window displaying text and the system’s current IP address. Designed for the sole purpose of using to display studnet name, nuber and current IP in screenshots for IT assignments.
+This Python application creates a small, semi-transparent, always-on-top window displaying text and the system’s current IP address. Designed for the sole purpose of using to display student name, number and current IP in screenshots for IT assignments.
 
 ## Features
 
