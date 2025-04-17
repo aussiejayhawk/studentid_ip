@@ -80,7 +80,7 @@ class WatermarkWindow(QtWidgets.QWidget):
 
     def update_ip(self):
         ip = get_ip_address()
-        formatted_ip = f"IP address: {ip}"
+        formatted_ip = "IP address: {}".format(ip)
         if self.ip_label.text() != formatted_ip:
             self.ip_label.setText(formatted_ip)
 
